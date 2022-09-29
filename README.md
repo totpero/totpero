@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **totpero/totpero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![totpero's Github Stats](https://github-readme-stats.vercel.app/api?username=totpero&show_icons=true)
+
+
+
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=totpero&theme=flat&no-frame=true&margin-w=30" />
+</div>
