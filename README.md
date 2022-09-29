@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=totpero&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=totpero&theme=flat&no-frame=true&margin-w=0" />
 </div>
