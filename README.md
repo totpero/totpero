@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 
 
 ![totpero's Github Stats](https://github-readme-stats-fast.vercel.app/api?username=totpero&show_icons=true)
-
-
-
-
-<div align="center">
-   <img src="https://github-readme-stats-fast.vercel.app/api?username=totpero&theme=flat&no-frame=true&margin-w=30" />
-</div>
